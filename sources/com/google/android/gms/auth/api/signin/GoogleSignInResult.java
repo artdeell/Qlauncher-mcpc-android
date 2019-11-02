@@ -1,0 +1,31 @@
+package com.google.android.gms.auth.api.signin;
+
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
+import com.google.android.gms.common.api.Result;
+import com.google.android.gms.common.api.Status;
+
+public class GoogleSignInResult implements Result {
+    private Status zzUX;
+    private GoogleSignInAccount zzXg;
+
+    public GoogleSignInResult(@Nullable GoogleSignInAccount googleSignInAccount, @NonNull Status status) {
+        Status status2 = status;
+        this.zzXg = googleSignInAccount;
+        this.zzUX = status2;
+    }
+
+    @Nullable
+    public GoogleSignInAccount getSignInAccount() {
+        return this.zzXg;
+    }
+
+    @NonNull
+    public Status getStatus() {
+        return this.zzUX;
+    }
+
+    public boolean isSuccess() {
+        return this.zzUX.isSuccess();
+    }
+}

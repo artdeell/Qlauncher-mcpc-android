@@ -1,0 +1,271 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: OhfwGY/cbGwrx5guoPJ46G6cuAw=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable/dirt_background.png
+SHA1-Digest: ODV/oSauFcA8BXm8zogRuZ8AkSY=
+
+Name: assets/lib5.jar
+SHA1-Digest: 6fhUNvB7YWrlrli8TXF4aaxyARQ=
+
+Name: lib/armeabi-v7a/libtwitchsdk.so
+SHA1-Digest: JNpSrgzG3cle/z7ZKXA7HST/was=
+
+Name: assets/lib18.jar
+SHA1-Digest: cTZ3aiBc3SsAb8XSm3QiebcW4Eo=
+
+Name: assets/lib4.jar
+SHA1-Digest: qm0CLc8HfEMDgoYvGi4SP/mMSm0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: r+suXrhorIQLIF7wHm9rBNKfzuE=
+
+Name: res/drawable/control_button_pressed.xml
+SHA1-Digest: QMolN95CDLL7ZpUrfFBsK1lwmkg=
+
+Name: res/layout/overlay.xml
+SHA1-Digest: 0HlmdgU975FFdlV7r6brnnij18A=
+
+Name: res/layout/lmaintab_consolelog.xml
+SHA1-Digest: ojIBn+DFV5qiwC9n+Aj2I/w3P90=
+
+Name: assets/lib10.jar
+SHA1-Digest: 86aBOTjVuSLjsoGGt8KMCwGZAS4=
+
+Name: res/drawable/stone_background.png
+SHA1-Digest: OxioIdSgwyxuVfYQztG+22zM62A=
+
+Name: res/layout/launcher_main.xml
+SHA1-Digest: cWeTVQd8kbi52kdz7rZjSEP9Uho=
+
+Name: res/layout/lmaintab_news.xml
+SHA1-Digest: 3RxLDIHZUUAljRVP13fvmoAMbm0=
+
+Name: res/drawable-hdpi-v4/ic_file.png
+SHA1-Digest: B77L+TMjN/PAz2PokLKCfwajvNw=
+
+Name: assets/lib6.jar
+SHA1-Digest: HmgQbgYYEdUfEntNJkVDSSpjv8w=
+
+Name: res/drawable-xxhdpi-v4/ic_folder.png
+SHA1-Digest: rmQEyS+sWIuBgvaAVnsh+NBmUKY=
+
+Name: res/drawable/control_button.xml
+SHA1-Digest: giGBidWCvjBpSEfQELcz03F7jbY=
+
+Name: assets/lib19.jar
+SHA1-Digest: MsUtxObNJO30QbBETD0c9Ah2iT8=
+
+Name: res/drawable/dirt_drawable.xml
+SHA1-Digest: PKLixHZp7KG80q3rB3/ZAF3Gess=
+
+Name: res/drawable/stone_drawable.xml
+SHA1-Digest: shZWBdMzpChhnasdHqu0w0fy0pA=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: hDxCKUIT2+8v9VsA6vDwcIc/K8E=
+
+Name: res/layout/guibtn.xml
+SHA1-Digest: h4sPrQDJs7OUAeJnY0Nyn3gpGLE=
+
+Name: assets/font/MCFont.otf
+SHA1-Digest: PExy6IRTHxbxWjOakY2bDSfOtzc=
+
+Name: assets/lib7.jar
+SHA1-Digest: /k2dB9gRf+0RBpvgLDGB9ne/4Cs=
+
+Name: res/drawable-anydpi-v21/ic_folder.xml
+SHA1-Digest: us8ibgCK59fyY8qS7ntFwjbOqbI=
+
+Name: lib/x86/libglshim.so
+SHA1-Digest: jFcKxd/7l3qt7SuOTV+xar55iE8=
+
+Name: assets/Minecraft-1.9.jar
+SHA1-Digest: WTU3ilqaIKuGsMCi6z4eNS77ZgI=
+
+Name: res/drawable-xxhdpi-v4/ic_file.png
+SHA1-Digest: Va+D+H+mkxOigb2LV8eUtnkSBL8=
+
+Name: assets/lib11.jar
+SHA1-Digest: 8jWU1/MMiq5ZrRTk7BStQyIBsE4=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: x3aBklfTXZxdtXsPiFBl8i54eaY=
+
+Name: assets/lib24.jar
+SHA1-Digest: od72iYxJ6Cbijeg11afqi9Eix+A=
+
+Name: res/layout/launcher.xml
+SHA1-Digest: zAn+PAnLE8E2nmKsD4YevRrrHXg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: RSWmps3n/XqFRKlIxlp79xCtEJc=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: psyUQtNm9h6vb+ptal6iTATbQh8=
+
+Name: lib/arm64-v8a/libglshim.so
+SHA1-Digest: YtJlA52MZDu0PqBEuKMm+tppqRo=
+
+Name: assets/lib26.jar
+SHA1-Digest: 6poUIW+53D2fot0xXwsgF0gJb30=
+
+Name: assets/lib12.jar
+SHA1-Digest: hH5inHtqs3gsPSi3dOj5l62i/bQ=
+
+Name: assets/lib8.jar
+SHA1-Digest: 4ewyYj81JmSLz5LfKm9gPvcSjgM=
+
+Name: assets/Minecraft-1.8.jar
+SHA1-Digest: yz4LGeIAmfHnevyt/C9tBiPt/oI=
+
+Name: assets/lib13.jar
+SHA1-Digest: 46iiqQ9DuaSdEXKLc56j4hp3ahc=
+
+Name: res/drawable/mcbtn_pressed.png
+SHA1-Digest: Q4arZKmqCYJXJO+UtZJNvXKd/Jc=
+
+Name: assets/lib25.jar
+SHA1-Digest: viG6nE+w70ox40WB9a+TmisRrFE=
+
+Name: resources.arsc
+SHA1-Digest: 3kh418tXkEnUny0qMnILIkm8hBQ=
+
+Name: assets/Minecraft-1.7.2.jar
+SHA1-Digest: +s+wK1I3V53VQO8V6dc/OPv/Vmo=
+
+Name: lib/x86/liblwjgl.so
+SHA1-Digest: bxcGHBG+Yz6e35Jj0o/+mHcDpFg=
+
+Name: assets/lib22.jar
+SHA1-Digest: sxlMj8ZiqAwSJWxtsTochKr6ktg=
+
+Name: assets/Minecraft-1.7.10.jar
+SHA1-Digest: l2XYuknFk2XTEFGfDi3bAtDoyoQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: eyDnCvx3Xm98eORVxYzH9E9hdf4=
+
+Name: assets/lib14.jar
+SHA1-Digest: FvLkdUzGjrS1VpCFhf82W+XbjWg=
+
+Name: lib/x86/libgl4es.so
+SHA1-Digest: kKituz5a6Y+/TjDuFq7nCxQbcDE=
+
+Name: assets/lib9.jar
+SHA1-Digest: p1HngYG7B5ApQL+3AXd5mBX0Gmg=
+
+Name: lib/armeabi-v7a/liblwjgl.so
+SHA1-Digest: B3o0wlWoqBhqTyf9qFcZ508fNX0=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: MKyLz1xhLbgCPLdqwAXjiNboKa0=
+
+Name: res/drawable/mcbutton.xml
+SHA1-Digest: FmcJ+cAp0RyQOGefnQ5uflDd3+w=
+
+Name: lib/arm64-v8a/libboardwalk.so
+SHA1-Digest: 4b6VdQSA9VIGzvpmtCuaqkABDTU=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: H1yXjPsw2KvYMhxxyMgkmsnRr9I=
+
+Name: assets/lib15.jar
+SHA1-Digest: XEdIijBKslUktghTjQBhvBX7Hd8=
+
+Name: lib/armeabi-v7a/libgl4es.so
+SHA1-Digest: ol8jBCmMRxtbkz6yRD7N9gDJcFI=
+
+Name: assets/lib1.jar
+SHA1-Digest: djE62VgWD0NWzeiO518sWBHhRnI=
+
+Name: assets/lib23.jar
+SHA1-Digest: HYXVJuCwbbcd27RXSNEfh5Aai3U=
+
+Name: lib/x86/libopenal.so
+SHA1-Digest: ylkUZUfnM87f398S815MBJjzcKs=
+
+Name: assets/options.txt
+SHA1-Digest: BRi6A6IQxgRxIiv9jPCR31kfJi4=
+
+Name: res/layout/launcher_acc.xml
+SHA1-Digest: ny2D6YMZSNrQ9/wXvASw+hz19rY=
+
+Name: res/layout/launcher_free.xml
+SHA1-Digest: kGw2VvtoL8C8A/4NHWaKAOEuEoA=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA1-Digest: YW5F7bEEWN20domya5zMSfeC2fE=
+
+Name: assets/Minecraft-1.1.jar
+SHA1-Digest: SxOh8aI5eXKpySCecvq44VkobFw=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: kFdR2y+/i9ogEnU6BKkVlpE3uq4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: TC7fhxzlgnRPY81q1Jd8PG+a9BU=
+
+Name: assets/lib16.jar
+SHA1-Digest: 1vE1KZdWgszsptJ0Qs7CVz9UI2o=
+
+Name: assets/lib2.jar
+SHA1-Digest: 7wxP7EJdEqmPA7Z8riZDFH9IEzI=
+
+Name: lib/armeabi-v7a/libglshim.so
+SHA1-Digest: 0kAnR3XTwIc0gebPrlYgml1GD0g=
+
+Name: res/drawable-mdpi-v4/ic_file.png
+SHA1-Digest: L8+9LfBNl1rBg9uFY/0+o1cPOOE=
+
+Name: lib/x86/libboardwalk.so
+SHA1-Digest: +IDGPb0V4KXoYvwmwkpCNZds+Os=
+
+Name: res/drawable-xhdpi-v4/ic_file.png
+SHA1-Digest: xhYMMtIJCCXj9ivznbiUoTuVau4=
+
+Name: res/layout/main.xml
+SHA1-Digest: 3VFw/m+kR98XxqzR2/aorrzYzCc=
+
+Name: assets/lib20.jar
+SHA1-Digest: j346UTf6CkEICRQLjvxtnqjD+po=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: c/fcla8kiPcayV9Da0Ye1IOKsZY=
+
+Name: lib/armeabi-v7a/libboardwalk.so
+SHA1-Digest: nU7OC+7MYFOO6M80kJ3ulmfslRE=
+
+Name: res/drawable-hdpi-v4/ic_folder.png
+SHA1-Digest: CRdMYMDXe35SpewjS6E+09hWeSw=
+
+Name: res/drawable/mcbtn_normal.png
+SHA1-Digest: jqAadqQuD82sXdHzBtxEkHzkQFI=
+
+Name: assets/lib3.jar
+SHA1-Digest: 023n/btyk9mx10DczpzyaeTMw/M=
+
+Name: res/drawable-xhdpi-v4/ic_folder.png
+SHA1-Digest: VS6nzpiKhWTOq/JHDatkXYn7wAQ=
+
+Name: assets/lib17.jar
+SHA1-Digest: qTteNbvcVtL6kdySP9AH1nPG0iE=
+
+Name: lib/arm64-v8a/liblwjgl.so
+SHA1-Digest: lUTADtq+gNmugDOAKP2rv/Lm+dM=
+
+Name: classes.dex
+SHA1-Digest: T682xTlX05r+z2IVF/Ajx3+THZo=
+
+Name: assets/lib21.jar
+SHA1-Digest: N0btQd4aOjR+KULAs/mpV1KQlGo=
+
+Name: res/drawable/control_button_normal.xml
+SHA1-Digest: 0P9wv3buR7C1CQOMIs8MJHRr+Bs=
+
+Name: res/drawable-mdpi-v4/ic_folder.png
+SHA1-Digest: TloN6xNlixxqEKOuCOZIN9TfwvY=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: FUbbsXp16yAzbr3F75b9V+X0zFU=
+

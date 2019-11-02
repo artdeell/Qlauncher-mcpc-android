@@ -1,0 +1,40 @@
+package android.support.p000v4.widget;
+
+import android.content.Context;
+import android.view.View;
+import android.widget.SearchView;
+import net.zhuoweizhang.boardwalk.LibrariesRepository;
+
+/* renamed from: android.support.v4.widget.SearchViewCompatIcs */
+class SearchViewCompatIcs {
+
+    /* renamed from: android.support.v4.widget.SearchViewCompatIcs$MySearchView */
+    public static class MySearchView extends SearchView {
+        public MySearchView(Context context) {
+            super(context);
+        }
+
+        public void onActionViewCollapsed() {
+            setQuery(LibrariesRepository.MOJANG_MAVEN_REPO, false);
+            super.onActionViewCollapsed();
+        }
+    }
+
+    SearchViewCompatIcs() {
+    }
+
+    public static View newSearchView(Context context) {
+        MySearchView mySearchView;
+        MySearchView mySearchView2 = mySearchView;
+        MySearchView mySearchView3 = new MySearchView(context);
+        return mySearchView2;
+    }
+
+    public static void setImeOptions(View view, int i) {
+        ((SearchView) view).setImeOptions(i);
+    }
+
+    public static void setInputType(View view, int i) {
+        ((SearchView) view).setInputType(i);
+    }
+}

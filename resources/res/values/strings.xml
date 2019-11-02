@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QLauncher McPc by KamenkoTV</string>
+    <string name="control_keyboard">Tastatura</string>
+    <string name="control_chat">Čet</string>
+    <string name="control_debug">otkg</string>
+    <string name="controls">Controls</string>
+    <string name="control_primary">levi</string>
+    <string name="control_secondary">desni</string>
+    <string name="control_shift">◇</string>
+    <string name="control_inventory">inv</string>
+    <string name="control_up">▲</string>
+    <string name="control_jump">■</string>
+    <string name="control_left">◀</string>
+    <string name="control_right">▶</string>
+    <string name="control_down">▼</string>
+    <string name="control_thirdperson">3</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/dirt_drawable" android:paddingTop="40dp" android:paddingBottom="40dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="#aa000000" android:paddingLeft="25dp" android:paddingRight="25dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:gravity="center" android:background="@drawable/mcbutton" android:layout_width="470dp" android:layout_height="42dp" android:layout_marginBottom="5dp" android:text="Registruj se imenom" android:onClick="loginNickname"/>
+        <TextView android:gravity="center" android:background="@drawable/mcbutton" android:layout_width="470dp" android:layout_height="42dp" android:layout_marginBottom="5dp" android:text="prijavi se nalogom" android:onClick="loginAccount"/>
+        <TextView android:gravity="center" android:background="@drawable/mcbutton" android:layout_width="470dp" android:layout_height="42dp" android:layout_marginBottom="5dp" android:text="Prijavi se imenom" android:onClick="loginSavedAcc"/>
+    </LinearLayout>
+</LinearLayout>
