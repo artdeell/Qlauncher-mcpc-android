@@ -9,21 +9,21 @@
             </LinearLayout>
         </android.support.p000v4.app.FragmentTabHost>
         <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#55000000" android:layout_width="match_parent" android:layout_height="80dp" android:layout_alignParentBottom="true">
-            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:textSize="15sp" android:gravity="center" android:id="@+id/lMTVVer" android:layout_width="65dp" android:layout_height="40dp" android:layout_marginBottom="40dp" android:text="Verzije:" android:layout_alignParentBottom="true"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:textSize="15sp" android:gravity="center" android:id="@+id/lMTVVer" android:layout_width="65dp" android:layout_height="40dp" android:layout_marginBottom="40dp" android:text="Версия:" android:layout_alignParentBottom="true"/>
             <Spinner android:id="@+id/launchermainSelectVersion" android:layout_width="111dp" android:layout_height="40dp" android:layout_marginLeft="65dp" android:layout_marginBottom="40dp" android:layout_alignParentBottom="true"/>
-            <Button android:layout_width="176dp" android:layout_height="40dp" android:text="Modovi" android:layout_alignParentBottom="true" android:onClick="modManager"/>
+            <Button android:layout_width="176dp" android:layout_height="40dp" android:text="Моды" android:layout_alignParentBottom="true" android:onClick="modManager"/>
             <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/lMLL1" android:layout_width="176dp" android:layout_height="80dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
                 <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
-                    <TextView android:textSize="12sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="20dp" android:layout_marginRight="4dp" android:text="Dobrodošli,"/>
-                    <TextView android:textSize="12sp" android:textStyle="bold" android:gravity="center" android:id="@+id/launcherMainNicknameView" android:layout_width="wrap_content" android:layout_height="20dp" android:text="Ime"/>
+                    <TextView android:textSize="12sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="20dp" android:layout_marginRight="4dp" android:text="Добро пожаловать,"/>
+                    <TextView android:textSize="12sp" android:textStyle="bold" android:gravity="center" android:id="@+id/launcherMainNicknameView" android:layout_width="wrap_content" android:layout_height="20dp" android:text="Ник"/>
                 </LinearLayout>
-                <TextView android:textSize="12sp" android:gravity="center" android:id="@+id/launcherMainVersionView" android:layout_width="wrap_content" android:layout_height="20dp" android:text="Spremno za igranje Minecraft 1.9"/>
+                <TextView android:textSize="12sp" android:gravity="center" android:id="@+id/launcherMainVersionView" android:layout_width="wrap_content" android:layout_height="20dp" android:text="Готов к запуску Minecraft 1.9"/>
                 <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
-                    <Button android:textSize="10sp" android:layout_width="88dp" android:layout_height="40dp" android:text="Promeni nalog" android:onClick="mcaccSwitchUser"/>
-                    <Button android:textSize="10sp" android:layout_width="match_parent" android:layout_height="40dp" android:text="odjavi se" android:onClick="mcaccLogout"/>
+                    <Button android:textSize="10sp" android:layout_width="88dp" android:layout_height="40dp" android:text="Сменить пользователя" android:onClick="mcaccSwitchUser"/>
+                    <Button android:textSize="10sp" android:layout_width="match_parent" android:layout_height="40dp" android:text="Выйти" android:onClick="mcaccLogout"/>
                 </LinearLayout>
             </LinearLayout>
-            <Button android:layout_width="wrap_content" android:layout_height="80dp" android:layout_marginLeft="111dp" android:text="Igraj" android:layout_toLeftOf="@+id/lMLL1" android:layout_toRightOf="@+id/lMTVVer" android:layout_alignParentBottom="true" android:onClick="launchGame"/>
+            <Button android:layout_width="wrap_content" android:layout_height="80dp" android:layout_marginLeft="111dp" android:text="Играть" android:layout_toLeftOf="@+id/lMLL1" android:layout_toRightOf="@+id/lMTVVer" android:layout_alignParentBottom="true" android:onClick="launchGame"/>
         </RelativeLayout>
     </RelativeLayout>
 </LinearLayout>
